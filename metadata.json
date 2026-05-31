@@ -1,0 +1,9 @@
+{
+  "name": "PatrolSEC",
+  "description": "A security patrol PWA with black and white themes, camera integration, and utility tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
